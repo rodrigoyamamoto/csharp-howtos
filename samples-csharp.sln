@@ -1,11 +1,10 @@
-
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sample-file", "samples-file\sample-file.csproj", "{FBE7CE39-6AD7-40AC-9DC7-48FA53CCF849}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sample-filestream-streamreader", "sample-filestream-streamreader\sample-filestream-streamreader.csproj", "{466ADC90-5D5D-432B-8AD9-4CEA46F26E8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sample-file", "sample-file\sample-file.csproj", "{FCEEB203-1BD0-48E0-A76C-B812FF90FF78}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +12,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FBE7CE39-6AD7-40AC-9DC7-48FA53CCF849}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FBE7CE39-6AD7-40AC-9DC7-48FA53CCF849}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FBE7CE39-6AD7-40AC-9DC7-48FA53CCF849}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FBE7CE39-6AD7-40AC-9DC7-48FA53CCF849}.Release|Any CPU.Build.0 = Release|Any CPU
 		{466ADC90-5D5D-432B-8AD9-4CEA46F26E8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{466ADC90-5D5D-432B-8AD9-4CEA46F26E8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{466ADC90-5D5D-432B-8AD9-4CEA46F26E8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{466ADC90-5D5D-432B-8AD9-4CEA46F26E8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCEEB203-1BD0-48E0-A76C-B812FF90FF78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCEEB203-1BD0-48E0-A76C-B812FF90FF78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCEEB203-1BD0-48E0-A76C-B812FF90FF78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCEEB203-1BD0-48E0-A76C-B812FF90FF78}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
