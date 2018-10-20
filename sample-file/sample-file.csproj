@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{FBE7CE39-6AD7-40AC-9DC7-48FA53CCF849}</ProjectGuid>
+    <ProjectGuid>{FCEEB203-1BD0-48E0-A76C-B812FF90FF78}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>samples_csharp</RootNamespace>
-    <AssemblyName>samples-csharp</AssemblyName>
+    <RootNamespace>sample_file</RootNamespace>
+    <AssemblyName>sample_file</AssemblyName>
     <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
